@@ -1,4 +1,16 @@
 {
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://tompearl.com",
+      "permanent": false
+    },
+    {
+      "source": "/:path((?!api).*)",
+      "destination": "https://tompearl.com",
+      "permanent": false
+    }
+  ],
   "rewrites": [
     {
       "source": "/ranking/:path*",

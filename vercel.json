@@ -2,6 +2,16 @@
   "redirects": [
     {
       "source": "/",
+      "destination": "https://tompearl.com",
+      "permanent": false
+    },
+    {
+      "source": "/:path((?!api).*)",
+      "destination": "https://tompearl.com",
+      "permanent": false
+    },
+    {
+      "source": "/",
       "destination": "/rankings/overall",
       "permanent": false
     },

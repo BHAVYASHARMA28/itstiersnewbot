@@ -6,7 +6,7 @@
   "managerRoleIds": [1557782878614585515],
   "testerRoleIds": [1557399439692398773],
   "brand": {
-    "name": "ItsTiers",
+    "name": "TIER COUNCIL",
     "iconUrl": "",
     "accentColor": "#5865F2",
     "closedColor": "#ED4245",
@@ -45,7 +45,7 @@
       "id": "crystal",
       "name": "Crystal",
       "cooldownHours": 24,
-      "testerRoleIds": ["1492532456811663361"]
+      "testerRoleIds": ["1557399439721767045"]
     },
     {
       "id": "uhc",

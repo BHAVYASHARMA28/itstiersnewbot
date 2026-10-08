@@ -1,9 +1,9 @@
 {
   "guildId": "1557399439084097558",
-  "requestChannelId": "1492571081071132672",
-  "resultsChannelId": "1492539825839013958",
+  "requestChannelId": "1557759066707595275",
+  "resultsChannelId": "1557399441168801802",
   "waitlistCategoryId": "1516576005295177828",
-  "managerRoleIds": [],
+  "managerRoleIds": [1557668227239387166],
   "testerRoleIds": [],
   "brand": {
     "name": "ItsTiers",
